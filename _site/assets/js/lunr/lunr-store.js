@@ -1,6 +1,6 @@
 var store = [{
         "title": "hello",
-        "excerpt":"hello world  ","categories": ["hello"],
+        "excerpt":"hello world      test 글입니당.  ","categories": ["hello"],
         "tags": ["python","blog","jekyll"],
         "url": "/hello/first/",
         "teaser": null
