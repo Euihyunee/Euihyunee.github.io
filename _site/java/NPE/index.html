@@ -473,6 +473,14 @@
 
       <section class="page__content e-content" itemprop="text">
         
+          <aside class="sidebar__right sticky">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-fas fa-utensils"></i> 목차</h4></header>
+              <ul class="toc__menu"><li><a href="#java-nullpointexception-원인예방해결">[Java] NullPointException 원인/예방/해결</a></li><li><a href="#npe의-예방-및-해결법">[NPE]의 예방 및 해결법</a><ul><li><a href="#nullpointexception-줄인-말이-npe다">NullPointException 줄인 말이 NPE다</a></li></ul></li><li><a href="#1-null-parmeter-넘기지-말-것">1. null Parmeter 넘기지 말 것</a></li><li><a href="#2-문자열-비교">2. 문자열 비교</a><ul><li><a href="#예시">[예시]</a></li></ul></li><li><a href="#3-tostring말고---valeof-사용">3. toString말고 -&gt; valeOf() 사용</a></li><li><a href="#4-spring에서는-notnull을-사용하자">4. Spring에서는 @NotNull을 사용하자</a></li><li><a href="#마지막">마지막</a></li></ul></li></ul>
+
+            </nav>
+          </aside>
+        
         <h2 id="java-nullpointexception-원인예방해결">[Java] NullPointException 원인/예방/해결</h2>
 
 <p>이번 프로젝트를 진행하던 도중 JSON파일 부분인지 API요청해서 DTO로 받는 부분인진 모르겠지만 가장 많이 일어났던 오류가 바로 이 NullPointException이였는데 이를 개선하기 위한 방법들을 알아보고 포스팅해 보았다.</p>
