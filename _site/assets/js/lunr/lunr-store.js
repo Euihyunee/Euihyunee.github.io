@@ -24,9 +24,9 @@ var store = [{
         "teaser": null
       },{
         "title": "Docker",
-        "excerpt":"Docker란 무엇? 도커는 먼저 컨테이너 기반의 오픈 소스이다. 먼저 컨테이너란 개념에 대해서 알아야합니다. 대충 말하자면 하나의 시스템 위에서 둘 이상의 Software를 동시에 실행하려고 한다면 문제가 발생할 수 있습니다. 만약 두 software의 운영 체제가 다른 경우에 문제가 발생할 수 있습니다. 이때 해결법으로 두 Software에 대한 시스템을 각각 준비하는 방법이 있는데 시스템을...","categories": [],
+        "excerpt":"Docker란 무엇? 도커는 먼저 컨테이너 기반의 오픈 소스이다. 먼저 컨테이너란 개념에 대해서 알아야합니다. 대충 말하자면 하나의 시스템 위에서 둘 이상의 Software를 동시에 실행하려고 한다면 문제가 발생할 수 있습니다. 만약 두 software의 운영 체제가 다른 경우에 문제가 발생할 수 있습니다. 이때 해결법으로 두 Software에 대한 시스템을 각각 준비하는 방법이 있는데 시스템을...","categories": ["about"],
         "tags": [],
-        "url": "/Docker/",
+        "url": "/about/Docker/",
         "teaser": null
       },{
         "title": "[Java]NullException",
