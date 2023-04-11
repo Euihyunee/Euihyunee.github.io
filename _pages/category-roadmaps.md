@@ -1,6 +1,6 @@
 ---
 title: "RoadMaps"
-layout: archive
+layout: categories
 permalink: /categories/roadmaps/
 author_profile: true
 sidebar_main: true

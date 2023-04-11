@@ -1,6 +1,6 @@
 ---
 title: "Spring"
-layout: annotation
+layout: categories
 permalink: /categories/annotation/
 author_profile: true
 sidebar_main: true
